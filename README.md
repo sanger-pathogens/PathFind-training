@@ -9,7 +9,7 @@ PathFind (pf) training developed by Pathogen Informatics at Wellcome Sanger Inst
 
 ## Introduction
 
-This is a training module for using pf. Begin in the [index](unix-training-notebooks/index.ipynb) notebook and this will guide you through the training.
+This is a training module for using pf. Begin in the [index](pf-training-notebooks/index.ipynb) notebook and this will guide you through the training.
 
 Key aims of the training include:
 
